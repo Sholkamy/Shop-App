@@ -1,4 +1,4 @@
-# e_commerce_app 🛒
+# Shop App 🛒
 
 ## Our Goal
 
